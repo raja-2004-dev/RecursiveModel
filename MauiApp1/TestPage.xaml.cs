@@ -22,7 +22,7 @@ namespace MauiApp1;
             {
                 new RecursiveModel
                 {
-                    Name = "Folder 1",
+                    Name = "Desktop",
                     Directories = new List<RecursiveModel>
                     {
                         new RecursiveModel
@@ -64,7 +64,7 @@ namespace MauiApp1;
 
                 new RecursiveModel
                 {
-                    Name = "Folder 2",
+                    Name = "OneDrive",
                     Directories = new List<RecursiveModel>
                     {
                         new RecursiveModel
